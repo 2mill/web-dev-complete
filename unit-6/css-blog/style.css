@@ -7,11 +7,14 @@ html {
 }
 h2 {
     color : #2c3e50;
+    font-weight : 800;
 }
 
 .date {
     text-transform: uppercase;
     color : #3498db;
+    letter-spacing : 2px;
+    font-weight : 800;
 }
 #box {
     border : solid 20px lightgray;
@@ -21,4 +24,5 @@ h2 {
 .quote p {
     border : solid lightgray;
     border-width : 0px 0px 0px 4px;
+    padding-left : 10px;
 }
