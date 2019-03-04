@@ -1,0 +1,24 @@
+/* CSS colors for this exercise
+date color:#3498db;
+h2 color : #2c3e50;
+font : source sans pro; */
+html {
+    font-family : source sans pro, sans-serif;
+}
+h2 {
+    color : #2c3e50;
+}
+
+.date {
+    text-transform: uppercase;
+    color : #3498db;
+}
+#box {
+    border : solid 20px lightgray;
+    padding : 5px 3%;
+    margin : 0 25%;
+}
+.quote p {
+    border : solid lightgray;
+    border-width : 0px 0px 0px 4px;
+}
